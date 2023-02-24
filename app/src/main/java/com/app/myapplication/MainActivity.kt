@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //this is comment
+
+        // this is code done is branch 2 
     }
 }
